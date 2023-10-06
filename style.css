@@ -1,0 +1,17 @@
+body {
+    --bs-light-rgb: 48,73,95;
+    background-image: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg");
+    background-size: 100% 550px;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+li a {
+    font-size: 20px;
+    color: white;
+
+}
+
